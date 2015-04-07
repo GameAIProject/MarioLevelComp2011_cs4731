@@ -1,6 +1,0 @@
-# Ignore everything initially
-*
-
-# Do not ignore these
-!src/dk/itu/mario/level/MyLevel.java
-!src/dk/itu/mario/level/generator/MyLevelGenerator.java
